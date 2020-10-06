@@ -2,8 +2,9 @@
 
 ### The Tableau Public link to this analysis is here: 
 https://public.tableau.com/profile/jason.cristini#!/vizhome/CitiBikeNewStationPlan/CitiBikeNewStationPlan
-
-
+ 
+ 
+  
 For this analysis, I took the role of the analyst who will use a Tableau story to assist the city officials in their determination of where the next phase of the bike share system will spread to. They are looking for tangible insights into what neighborhood and/or what metrics they should be looking for to help them make their decisions. In order to answer these questions, I went to the Citi Bike data website at https://www.citibikenyc.com/system-data and pulled 3 csv files. The 3 files were of all the user trips in the months of June, July, and August of 2020. I chose the 3 summer months, since I assumed that is when the ridership was the greatest. 
 
 <img src="Images/cover.png" width=600>
